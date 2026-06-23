@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0547-number-of-provinces) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
