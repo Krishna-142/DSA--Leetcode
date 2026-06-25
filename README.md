@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
 ## Backtracking
