@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
+| [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -67,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
+| [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 ## String
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
+| [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 ## Backtracking
 |  |
 | ------- |
