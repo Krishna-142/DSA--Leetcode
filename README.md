@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
 | [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
+| [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
