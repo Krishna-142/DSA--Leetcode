@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -128,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sorting
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
