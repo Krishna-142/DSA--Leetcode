@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0785-is-graph-bipartite) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -145,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
