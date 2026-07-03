@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0785-is-graph-bipartite) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Matrix
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0210-course-schedule-ii) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,15 +161,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Linked List
 |  |
 | ------- |
