@@ -1,77 +1,67 @@
 class Solution {
 public:
-    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
-        int n = online.size();
-
-        vector<vector<pair<int,int>>> graph(n);
-        vector<int> indegree(n, 0);
-
-        for (auto &e : edges) {
-            graph[e[0]].push_back({e[1], e[2]});
-            indegree[e[1]]++;
-        }
-
-        queue<int> q;
-        for (int i = 0; i < n; i++)
-            if (indegree[i] == 0)
-                q.push(i);
-
-        vector<int> topo;
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            topo.push_back(u);
-
-            for (auto &[v, w] : graph[u]) {
-                if (--indegree[v] == 0)
-                    q.push(v);
-            }
-        }
-
-        auto check = [&](int limit) {
-            const long long INF = (1LL << 60);
-
-            vector<long long> dp(n, INF);
-            dp[0] = 0;
-
-            for (int u : topo) {
-
-                if (dp[u] == INF)
-                    continue;
-
-                if (u != 0 && u != n - 1 && !online[u])
-                    continue;
-
-                for (auto &[v, w] : graph[u]) {
-
-                    if (w < limit)
-                        continue;
-
-                    if (v != n - 1 && !online[v])
-                        continue;
-
-                    if (dp[u] + w < dp[v])
-                        dp[v] = dp[u] + w;
+    typedef pair<long long,int> P;
+    bool check(int m,long long k,int n,unordered_map<int,vector<pair<int,int>>>& adj)
+    {
+        vector<long long> res(n,LLONG_MAX);
+        priority_queue<P,vector<P>,greater<P>> pq;
+        res[0]=0;
+        pq.push({0,0});
+        while(!pq.empty())
+        {
+            long long d=pq.top().first;
+            int node=pq.top().second;
+            pq.pop();
+            if(d>k) return false;
+            if(node==n-1) return true;
+            if(res[node]<d) continue;
+            for(auto &v:adj[node])
+            {
+                int ngbr=v.first;
+                int cst=v.second;
+                if(cst<m) continue;
+                if(d+cst<res[ngbr])
+                {
+                    res[ngbr]=d+cst;
+                    pq.push({d+cst,ngbr});
                 }
             }
+        }
+        return false;
 
-            return dp[n - 1] <= k;
-        };
+    }
+    int findMaxPathScore(vector<vector<int>>& edges, vector<bool>& online, long long k) {
+        int n=online.size();
+        unordered_map<int,vector<pair<int,int>>> adj;
+        int l=INT_MAX,r=0;
 
-        int left = 0, right = 1000000000;
-        int ans = -1;
+        for(auto ed:edges)
+        {
+            int u=ed[0];
+            int v=ed[1];
+            int cst=ed[2];
+            
+            if(!online[u] || !online[v]) continue;
+            adj[u].push_back({v,cst}); 
+            l=min(l,cst);
+            r=max(r,cst);
+        }
+        int ans=-1;
+        while(l<=r)
+        {
+            int m=l+(r-l)/2;
+            if(check(m,k,n,adj))
+            {
+                ans=m;
+                l=m+1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-
-            if (check(mid)) {
-                ans = mid;
-                left = mid + 1;
-            } else {
-                right = mid - 1;
+            }
+            else
+            {
+                r=m-1;
             }
         }
-
         return ans;
+
     }
 };
