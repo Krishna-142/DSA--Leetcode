@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0091-decode-ways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0091-decode-ways) |
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
