@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0785-is-graph-bipartite) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -163,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -196,4 +202,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0061-rotate-list) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
