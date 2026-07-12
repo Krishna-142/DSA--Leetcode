@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Krishna-142/DSA--Leetcode/tree/master/0127-word-ladder) |
+| [1331-rank-transform-of-an-array](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2266-count-number-of-texts](https://github.com/Krishna-142/DSA--Leetcode/tree/master/2266-count-number-of-texts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Krishna-142/DSA--Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Krishna-142/DSA--Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
